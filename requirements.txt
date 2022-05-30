@@ -1,0 +1,4 @@
+Pillow==9.1.0
+pyOpenSSL==22.0.0
+requests==2.27.1
+rsa==4.8
