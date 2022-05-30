@@ -7,4 +7,4 @@
 
 - Demo Video:
 
-    ![Demo](assets/readme/demo.mp4)
+    ![Demo](assets/readme/demo.m4v)
